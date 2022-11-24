@@ -1,0 +1,55 @@
+.outer
+{
+    height: 600px;
+    width: 300px;
+    background-color: aqua;
+    padding-left: 40px;
+    background-image: url("./imagesp/goa.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+
+}
+
+.line2
+{
+    height: 25px;
+    padding-left: 10px;
+    padding-top: 5px;
+    width: 220px;
+    background-color: white;
+    border-radius: 20px;
+    
+
+}
+.line1
+{
+
+}
+#one
+{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+}
+#two
+{
+    border: none;
+}
+.button {
+    width: 140px;
+    height: 32px;
+    border: 1px solid gray;
+    border-radius: 20px;
+    background-color: #8f747ed2;
+    padding-left: 60px;
+    padding-top: 10px;
+    color: white;
+    
+
+}
+.end
+{
+    padding-left: 40px;
+    color: white;
+}

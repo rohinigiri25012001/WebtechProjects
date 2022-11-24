@@ -1,0 +1,137 @@
+.outer
+{
+    background-color:#c7a2da;
+    width: 800px;
+    height: 600px;
+    display: flex;
+    justify-content:space-evenly;
+    margin: auto;
+
+}
+.inner1
+{
+    height: 500px;
+    width: 250px;
+    background-color:#9251eca2;
+    padding: 10px;
+    
+}
+.inner2
+{
+    height: 500px;
+    width: 250px;
+    background-color:#9251eca2;
+    
+
+    padding: 10px;
+}
+.line1
+{   
+    color: white;
+    padding-left: 70px;
+}
+.line2
+{
+    padding-left: 50px;
+    color: white;  
+}
+.line3
+{
+    height: 25px;
+    padding-left: 10px;
+    padding-top: 5px;
+    width: 220px;
+    background-color: white;
+    border-radius: 20px;
+
+}
+
+.line4
+{
+    padding-left: 85px;
+     color: white;
+}
+#one
+{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+}
+#two
+{
+    border: none;
+}
+#three
+{
+    padding-left: 155px;
+    color: white;
+}
+.end
+{
+    color: white;
+}
+/* box 2
+ */
+ .box2
+ {
+    color: white;
+    padding-left: 70px;
+
+ }
+ .line6
+{
+    height: 25px;
+    padding-left: 10px;
+    padding-top: 5px;
+    width: 220px;
+    background-color: white;
+    border-radius: 20px;
+
+}
+.line7
+{
+    height: 25px;
+    padding-left: 10px;
+    padding-top: 5px;
+    width: 220px;
+    background-color: white;
+    border-radius: 20px;
+
+}
+.line8
+{
+    height: 25px;
+    padding-left: 10px;
+    padding-top: 5px;
+    width: 220px;
+    background-color: white;
+    border-radius: 20px;
+
+}
+.line9
+{
+    height: 25px;
+    padding-left: 10px;
+    padding-top: 5px;
+    width: 220px;
+    background-color: white;
+    border-radius: 20px;
+
+}
+.line10
+{
+    padding-left: 100px;
+    font-size: 30px;
+    color: white;
+}
+.end2
+{
+    color: white;
+
+}
+.icon
+{
+color: black;
+padding-left: 90px;
+padding-bottom: 90%;
+}

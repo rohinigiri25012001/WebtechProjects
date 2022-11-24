@@ -1,0 +1,68 @@
+.outer
+{
+    background-color: rgb(110, 151, 204);
+    /* height: 700px; */
+    /* width: 1000px; */
+    margin: auto;
+    padding-top: 70px;
+}
+.header
+{
+    padding-left: 30px;
+}
+.inner1
+{
+    background-color: rgb(206, 213, 223);
+    height: 550px;
+    width: 900px;
+    margin: auto;
+
+    padding-top: 10px;
+    /* display: inline-block; */
+    
+}
+.inner2
+{
+    display: flex;
+     justify-content: space-evenly;
+}
+#one
+{
+    border: none;
+    height: 30px;
+    width: 300px;
+    
+}
+.leftbox
+{
+
+    height: 300px;
+    width: 400px;
+}
+.rightbox
+{
+    
+    height: 300px;
+    width: 400px; 
+}
+.end
+{
+ padding-left: 40px;
+}
+.Gender
+{
+ 
+ padding-left: 5px;
+}
+.Button{
+    padding-left: 200px;
+}
+.button
+{
+    padding-top: 10px;
+    padding-left: 200px;
+    height: 30px;
+    width: 300px;
+    color: white;
+    background-color: rgba(56, 56, 219, 0.644);
+}

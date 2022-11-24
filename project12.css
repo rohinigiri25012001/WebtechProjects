@@ -1,0 +1,90 @@
+.outer
+{
+    background-color: pink;
+    height: 650px;
+    width: 900px;
+    display: flex;
+    justify-content:space-evenly;
+    margin: auto;
+}
+
+.inner1
+{
+    height: 550px;
+    width: 300px;
+    background-color: rgba(250, 235, 215, 0.473);
+    border: 1px solid black;
+    padding: 35px;
+}
+.inner2
+{
+    height: 550px;
+    width: 300px;
+    background-color: rgba(250, 235, 215, 0.473);
+    border: 1px solid black;
+    padding: 35px;
+
+}
+#four
+
+    {
+    width: 300px;
+    /* border-bottom: 1px solid black; */
+    height: 20px;
+    border-radius: 10px;
+    background-color:pink;
+
+    /* border: none; */
+    padding: 10px;
+    
+
+}
+#one
+{
+    width: 250px;
+    border-bottom: 1px solid black;
+    height: 20px;
+    border-radius: 10px;
+    background-color:pink;
+    background-color: ;
+    border: none;
+    padding: 10px;
+
+}
+#three
+{
+    width: 170px;
+    border-bottom: 1px solid black;
+    height: 30px;
+    border-radius: 10px;
+    background-color:rgba(233, 192, 198, 0.466);
+   
+    border: none;
+    /* padding: 60px;  */
+    padding-left: 100px;
+}
+#two
+{
+    width: 250px;
+    border-bottom: 1px solid black;
+    height: 20px;
+    border-radius: 10px;
+    background-color:rgba(233, 192, 198, 0.466);
+    background-color: ;
+    border: none;
+    padding: 10px;
+
+}
+#icon3
+{
+     background-color: blue;
+}
+.end
+{
+    padding-left: 30px;
+}
+
+.line
+{
+    padding-left: 50px;
+}

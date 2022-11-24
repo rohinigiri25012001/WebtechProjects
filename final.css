@@ -1,0 +1,100 @@
+*{
+ margin: 0px;
+ padding: 0px;
+}
+.navbar 
+{
+    background-color: rgba(227, 205, 205, 0.552);
+
+}
+.navbar-logo
+{
+    height: 100px;
+    width: 200px;
+    border-radius: 30px;
+}
+.middle
+{
+    display: flex;
+    padding:60px;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-left:25px;
+}
+.card-title
+{
+    color:#68BFE2;
+}
+.card-text
+{
+    font-size:17px;
+}
+
+.card-body
+{
+    box-shadow:1px 4px 9px 4px grey;
+}
+.Button
+{
+ 
+ margin-left:580px;
+ border-radius: 30px;
+ border:5px solid #947c69;
+ background-color:white;
+ color:black;
+ padding:5px;
+}
+.submit1
+{
+    height: 45px;
+    width: 450px;
+    border-radius:30px;
+    border: 5px;
+    padding-left:10px;
+    background-color: white;
+    box-shadow:1px 4px 4px 0px;
+}
+.input1
+{
+    margin-left:460px;
+}
+.submit2
+{
+    height: 45px;
+    width: 250px;
+    border-radius:30px;
+    border:5px ;
+    background-color: #E98F44;
+    color:white;
+    font-size: 17px;
+}
+.input2
+{
+    margin-left:550px;
+
+}
+.footer
+{
+    height: 300px;
+    width: 1900px;
+    border:1px solid black;
+    display: flex;
+    background-color: #004A8E;
+}
+.f-icon
+{
+    height: 200px;
+    width: 300px;
+    margin-left:130px;
+    margin-top:40px;
+    background-color: #004A8E;
+    color: white;
+}
+#icon
+{
+    border:5px solid black;
+    border-radius:100px;
+    background-color:black;
+}
+
+
